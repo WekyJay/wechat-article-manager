@@ -1,0 +1,13 @@
+{
+  "wechat": {
+    "appId": "YOUR_APP_ID_HERE",
+    "appSecret": "YOUR_APP_SECRET_HERE",
+    "baseUrl": "https://api.weixin.qq.com",
+    "timeout": 30000,
+    "maxRetries": 3,
+    "tokenCachePath": ".cache/token.json"
+  },
+  "logLevel": "info",
+  "cacheDir": ".cache",
+  "defaultAuthor": ""
+}

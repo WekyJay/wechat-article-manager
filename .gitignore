@@ -1,0 +1,19 @@
+node_modules/
+dist/
+*.log
+.env
+.DS_Store
+coverage/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Config files with sensitive data
+config/wechat.config.json
+config/token.json
+
+# Test files
+temp/
+tmp/
